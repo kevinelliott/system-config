@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mv ~/.system-config/Brewfile ~/.system-config/Brewfile.old
+brew bundle dump --file=~/.system-config/Brewfile
