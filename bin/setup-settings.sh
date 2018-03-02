@@ -19,6 +19,10 @@ mkdir ~/Desktop/Screenshots
 defaults write com.apple.screencapture location ~/Desktop/Screenshots
 
 
+# Setup Zgen
+git clone https://github.com/tarjoilija/zgen.git "${HOME}/.zgen"
+
+
 ## Github
 ssh-keygen -t rsa -C "kevin@`hostname -s`"
 
