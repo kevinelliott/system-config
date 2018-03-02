@@ -1,0 +1,21 @@
+{
+  "editor.cursorWidth": 8,
+  "editor.fontFamily": "knack nerd font, Menlo, Monaco, 'Courier New', monospace",
+  "editor.minimap.side": "right",
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "prettier.arrowParens": "always",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "workbench.colorTheme": "Palenight Italic"
+}
